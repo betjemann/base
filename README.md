@@ -1,1 +1,1 @@
-powered by [netlify](https://www.netlify.com/) & [John Millman](https://my-tripartite.co.uk/)
+powered by [Netlify](https://www.netlify.com/) & [John E. Millman](https://my-tripartite.co.uk/)
