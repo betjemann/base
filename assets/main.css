@@ -4,7 +4,7 @@
 }
 
 .colour {
-    color: #d67b04;
+    color: #dbbd7c;
 }
 
 i {
@@ -12,8 +12,8 @@ i {
 }
 
 u {
-    -webkit-text-decoration-color: #d67b04;
-    text-decoration-color: #d67b04;
+    -webkit-text-decoration-color: #dbbd7c;
+    text-decoration-color: #dbbd7c;
     text-decoration-thickness: 0.1rem;
 }
 
